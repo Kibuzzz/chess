@@ -1,0 +1,15 @@
+{
+    "name": "pablo/chess",
+    "autoload": {
+        "psr-4": {
+            "Pablo\\Chess\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kibuzz",
+            "email": "kibuzz15@gmail.com"
+        }
+    ],
+    "require": {}
+}
